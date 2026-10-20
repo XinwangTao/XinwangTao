@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1716775457damn/1716775457damn/main/assets/header-dark.svg">
-  <img alt="Xinwang Tao — AI/CV × Embedded Systems × Biomimetic Robotics × Rust Automation" src="https://raw.githubusercontent.com/1716775457damn/1716775457damn/main/assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinwangTao/XinwangTao/main/assets/header-dark.svg">
+  <img alt="Xinwang Tao — AI/CV × Embedded Systems × Biomimetic Robotics × Rust Automation" src="https://raw.githubusercontent.com/XinwangTao/XinwangTao/main/assets/header-light.svg" width="100%">
 </picture>
 
 <div align="center">
 
 <a href="https://seertick.com"><img src="https://img.shields.io/badge/Portfolio-seertick.com-00D1B2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.scilit.com/scholars/30921835"><img src="https://img.shields.io/badge/Academic-Scilit-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scilit" /></a>
-<a href="https://github.com/1716775457damn"><img src="https://img.shields.io/badge/GitHub-1716775457damn-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/XinwangTao"><img src="https://img.shields.io/badge/GitHub-XinwangTao-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 
 <a href="mailto:1716775457@qq.com"><img src="https://img.shields.io/badge/QQ-1716775457%40qq.com-EB1923?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ Mail" /></a>
 <a href="mailto:15116193888@163.com"><img src="https://img.shields.io/badge/163_Mail-15116193888%40163.com-C8102E?style=flat-square&logo=mail.ru&logoColor=white" alt="163 Mail" /></a>
@@ -108,7 +108,7 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/1716775457damn/rust-air">🦀 rust-air</a></h4>
+      <h4><a href="https://github.com/XinwangTao/rust-air">🦀 rust-air</a></h4>
       <b>Cross-platform LAN file transfer built in pure Rust.</b><br>
       <img src="https://img.shields.io/badge/Rust-CLI_%2B_GUI-DEA584?style=flat-square&logo=rust" alt="Rust CLI + GUI">
       <img src="https://img.shields.io/badge/LAN_Transfer-2dd4bf?style=flat-square" alt="LAN transfer">
@@ -116,7 +116,7 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
       CLI + desktop GUI, device discovery, file search, clipboard transfer, and sync workflow support.
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/1716775457damn/rust-seek">🔍 rust-seek</a></h4>
+      <h4><a href="https://github.com/XinwangTao/rust-seek">🔍 rust-seek</a></h4>
       <b>High-performance local file and text search tool.</b><br>
       <img src="https://img.shields.io/badge/Rust-Native_Search-DEA584?style=flat-square&logo=rust" alt="Rust native search">
       <img src="https://img.shields.io/badge/Regex-0EA5E9?style=flat-square" alt="Regex">
@@ -126,7 +126,7 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/1716775457damn/visual-automation-designer">🎨 visual-automation-designer</a></h4>
+      <h4><a href="https://github.com/XinwangTao/visual-automation-designer">🎨 visual-automation-designer</a></h4>
       <b>Visual desktop automation workflow builder.</b><br>
       <img src="https://img.shields.io/badge/Tauri+Rust-24C8DB?style=flat-square&logo=tauri" alt="Tauri">
       <img src="https://img.shields.io/badge/React_Flow-61DAFB?style=flat-square&logo=react" alt="React Flow">
@@ -134,7 +134,7 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
       Drag-and-drop automation designer using React Flow + Tauri + Rust, with flow editing, execution control, and desktop packaging.
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/1716775457damn/ESP-CSI-3D-Digital-Twin-Radar-System-">📡 ESP-CSI-Digital-Twin</a></h4>
+      <h4><a href="https://github.com/XinwangTao/ESP-CSI-3D-Digital-Twin-Radar-System-">📡 ESP-CSI-Digital-Twin</a></h4>
       <b>Wi-Fi CSI sensing + 3D digital twin radar experiment.</b><br>
       <img src="https://img.shields.io/badge/ESP32--S3-CSI-E7352C?style=flat-square" alt="ESP32-S3">
       <img src="https://img.shields.io/badge/PyTorch-Seq_Modeling-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch">
@@ -144,7 +144,7 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/1716775457damn/K210_machanical-arm">🤖 K210_mechanical-arm</a></h4>
+      <h4><a href="https://github.com/XinwangTao/K210_machanical-arm">🤖 K210_mechanical-arm</a></h4>
       <b>Computer vision robotic arm with patrol car integration.</b><br>
       <img src="https://img.shields.io/badge/K210-Vision-FFB000?style=flat-square" alt="K210 vision">
       <img src="https://img.shields.io/badge/MCU-Control-374151?style=flat-square" alt="MCU control">
@@ -170,11 +170,11 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 
 | Project | Tags | Description |
 |---------|------|-------------|
-| <a href="https://github.com/1716775457damn/rust-air"><b>rust-air</b></a> | <img src="https://img.shields.io/badge/LAN_Transfer-2dd4bf?style=flat-square" alt="LAN"> <img src="https://img.shields.io/badge/GUI_%2B_CLI-24C8DB?style=flat-square" alt="GUI+CLI"> | LAN transfer, sync, search |
-| <a href="https://github.com/1716775457damn/rust-seek"><b>rust-seek</b></a> | <img src="https://img.shields.io/badge/Search_Engine-0EA5E9?style=flat-square" alt="Search"> | Fast local search engine with native UI |
-| <a href="https://github.com/1716775457damn/visual-automation-designer"><b>visual-automation-designer</b></a> | <img src="https://img.shields.io/badge/Workflow_Builder-24C8DB?style=flat-square" alt="Workflow"> | Visual automation workflow builder |
-| <a href="https://github.com/1716775457damn/sync-vault"><b>sync-vault</b></a> | <img src="https://img.shields.io/badge/Exploration-8b949e?style=flat-square" alt="Exploration"> | Sync-oriented tooling exploration |
-| <a href="https://github.com/1716775457damn/sysmon"><b>sysmon</b></a> | <img src="https://img.shields.io/badge/Exploration-8b949e?style=flat-square" alt="Exploration"> | Systems tooling exploration |
+| <a href="https://github.com/XinwangTao/rust-air"><b>rust-air</b></a> | <img src="https://img.shields.io/badge/LAN_Transfer-2dd4bf?style=flat-square" alt="LAN"> <img src="https://img.shields.io/badge/GUI_%2B_CLI-24C8DB?style=flat-square" alt="GUI+CLI"> | LAN transfer, sync, search |
+| <a href="https://github.com/XinwangTao/rust-seek"><b>rust-seek</b></a> | <img src="https://img.shields.io/badge/Search_Engine-0EA5E9?style=flat-square" alt="Search"> | Fast local search engine with native UI |
+| <a href="https://github.com/XinwangTao/visual-automation-designer"><b>visual-automation-designer</b></a> | <img src="https://img.shields.io/badge/Workflow_Builder-24C8DB?style=flat-square" alt="Workflow"> | Visual automation workflow builder |
+| <a href="https://github.com/XinwangTao/sync-vault"><b>sync-vault</b></a> | <img src="https://img.shields.io/badge/Exploration-8b949e?style=flat-square" alt="Exploration"> | Sync-oriented tooling exploration |
+| <a href="https://github.com/XinwangTao/sysmon"><b>sysmon</b></a> | <img src="https://img.shields.io/badge/Exploration-8b949e?style=flat-square" alt="Exploration"> | Systems tooling exploration |
 </details>
 
 <details>
@@ -182,10 +182,10 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 
 | Project | Tags | Description |
 |---------|------|-------------|
-| <a href="https://github.com/1716775457damn/K210_machanical-arm"><b>K210_mechanical-arm</b></a> | <img src="https://img.shields.io/badge/Robotic_Arm-FFB000?style=flat-square" alt="Robotic arm"> | Vision-guided robotic arm + patrol car |
-| <a href="https://github.com/1716775457damn/ESP32-freertos-wifi"><b>ESP32-freertos-wifi</b></a> | <img src="https://img.shields.io/badge/Networking-E7352C?style=flat-square" alt="Networking"> | ESP32 + FreeRTOS networking practice |
-| <a href="https://github.com/1716775457damn/Flapping-bird-flight-control"><b>Flapping-bird-flight-control</b></a> | <img src="https://img.shields.io/badge/Flapping_Wing-7C3AED?style=flat-square" alt="Flapping wing"> | Flapping-wing control exploration |
-| <a href="https://github.com/1716775457damn/crane-2.0pro"><b>crane-2.0pro</b></a> | <img src="https://img.shields.io/badge/Competition-059669?style=flat-square" alt="Competition"> | Engineering/control competition project |
+| <a href="https://github.com/XinwangTao/K210_machanical-arm"><b>K210_mechanical-arm</b></a> | <img src="https://img.shields.io/badge/Robotic_Arm-FFB000?style=flat-square" alt="Robotic arm"> | Vision-guided robotic arm + patrol car |
+| <a href="https://github.com/XinwangTao/ESP32-freertos-wifi"><b>ESP32-freertos-wifi</b></a> | <img src="https://img.shields.io/badge/Networking-E7352C?style=flat-square" alt="Networking"> | ESP32 + FreeRTOS networking practice |
+| <a href="https://github.com/XinwangTao/Flapping-bird-flight-control"><b>Flapping-bird-flight-control</b></a> | <img src="https://img.shields.io/badge/Flapping_Wing-7C3AED?style=flat-square" alt="Flapping wing"> | Flapping-wing control exploration |
+| <a href="https://github.com/XinwangTao/crane-2.0pro"><b>crane-2.0pro</b></a> | <img src="https://img.shields.io/badge/Competition-059669?style=flat-square" alt="Competition"> | Engineering/control competition project |
 </details>
 
 <details>
@@ -193,9 +193,9 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 
 | Project | Tags | Description |
 |---------|------|-------------|
-| <a href="https://github.com/1716775457damn/ESP-CSI-3D-Digital-Twin-Radar-System-"><b>ESP-CSI-3D-Digital-Twin</b></a> | <img src="https://img.shields.io/badge/CSI_Sensing-EE4C2C?style=flat-square" alt="CSI"> <img src="https://img.shields.io/badge/Digital_Twin-7C3AED?style=flat-square" alt="Digital twin"> | Wi-Fi CSI sensing + digital twin visualization |
-| <a href="https://github.com/1716775457damn/Web-based-camera-realize-Face-reconginzation"><b>Web-based-camera-Face-recognition</b></a> | <img src="https://img.shields.io/badge/Face_Recognition-0EA5E9?style=flat-square" alt="Face recognition"> | Browser-based face recognition practice |
-| <a href="https://github.com/1716775457damn/web-based-self-driving-car"><b>web-based-self-driving-car</b></a> | <img src="https://img.shields.io/badge/Autonomous_Driving-0EA5E9?style=flat-square" alt="Autonomous driving"> | Autonomous driving concept demo |
+| <a href="https://github.com/XinwangTao/ESP-CSI-3D-Digital-Twin-Radar-System-"><b>ESP-CSI-3D-Digital-Twin</b></a> | <img src="https://img.shields.io/badge/CSI_Sensing-EE4C2C?style=flat-square" alt="CSI"> <img src="https://img.shields.io/badge/Digital_Twin-7C3AED?style=flat-square" alt="Digital twin"> | Wi-Fi CSI sensing + digital twin visualization |
+| <a href="https://github.com/XinwangTao/Web-based-camera-realize-Face-reconginzation"><b>Web-based-camera-Face-recognition</b></a> | <img src="https://img.shields.io/badge/Face_Recognition-0EA5E9?style=flat-square" alt="Face recognition"> | Browser-based face recognition practice |
+| <a href="https://github.com/XinwangTao/web-based-self-driving-car"><b>web-based-self-driving-car</b></a> | <img src="https://img.shields.io/badge/Autonomous_Driving-0EA5E9?style=flat-square" alt="Autonomous driving"> | Autonomous driving concept demo |
 </details>
 
 <details>
@@ -203,11 +203,11 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 
 | Project | Tags | Description |
 |---------|------|-------------|
-| <a href="https://github.com/1716775457damn/CopyrightVisualMonitor-promax"><b>CopyrightVisualMonitor-promax</b></a> | <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" alt="Automation"> | Automated upload + status monitoring workflow |
-| <a href="https://github.com/1716775457damn/CopyrightVisualMonitor"><b>CopyrightVisualMonitor</b></a> | <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" alt="Automation"> | Software-copyright submission automation |
-| <a href="https://github.com/1716775457damn/wechat-app"><b>wechat-app</b></a> | <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=flat-square&logo=wechat" alt="WeChat"> | WeChat mini-program exploration |
-| <a href="https://github.com/1716775457damn/HarmonyNext"><b>HarmonyNext</b></a> | <img src="https://img.shields.io/badge/HarmonyOS_Next-000000?style=flat-square&logo=harmonyos" alt="HarmonyOS"> | HarmonyOS app development practice |
-| <a href="https://github.com/1716775457damn?tab=repositories&q=HarmonyOS-Next&type=&language=&sort="><b>HarmonyOS-Next series</b></a> | <img src="https://img.shields.io/badge/Learning-8b949e?style=flat-square" alt="Learning"> | Structured learning repos around HarmonyOS Next |
+| <a href="https://github.com/XinwangTao/CopyrightVisualMonitor-promax"><b>CopyrightVisualMonitor-promax</b></a> | <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" alt="Automation"> | Automated upload + status monitoring workflow |
+| <a href="https://github.com/XinwangTao/CopyrightVisualMonitor"><b>CopyrightVisualMonitor</b></a> | <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" alt="Automation"> | Software-copyright submission automation |
+| <a href="https://github.com/XinwangTao/wechat-app"><b>wechat-app</b></a> | <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=flat-square&logo=wechat" alt="WeChat"> | WeChat mini-program exploration |
+| <a href="https://github.com/XinwangTao/HarmonyNext"><b>HarmonyNext</b></a> | <img src="https://img.shields.io/badge/HarmonyOS_Next-000000?style=flat-square&logo=harmonyos" alt="HarmonyOS"> | HarmonyOS app development practice |
+| <a href="https://github.com/XinwangTao?tab=repositories&q=HarmonyOS-Next&type=&language=&sort="><b>HarmonyOS-Next series</b></a> | <img src="https://img.shields.io/badge/Learning-8b949e?style=flat-square" alt="Learning"> | Structured learning repos around HarmonyOS Next |
 </details>
 
 ---
@@ -234,26 +234,26 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1716775457damn&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=2dd4bf&text_color=c9d1d9&title_color=58a6ff">
-    <img alt="Xinwang Tao GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1716775457damn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XinwangTao&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=2dd4bf&text_color=c9d1d9&title_color=58a6ff">
+    <img alt="Xinwang Tao GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XinwangTao&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1716775457damn&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff">
-    <img alt="Xinwang Tao Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1716775457damn&layout=compact&theme=default&hide_border=true" width="49%">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=1716775457damn&theme=codeSTACKr&hide_border=true&background=0d1117&ring=2dd4bf&fire=f59e0b&currStreakLabel=58a6ff">
-    <img alt="Xinwang Tao GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=1716775457damn&theme=default&hide_border=true" width="72%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XinwangTao&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff">
+    <img alt="Xinwang Tao Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinwangTao&layout=compact&theme=default&hide_border=true" width="49%">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1716775457damn/1716775457damn/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/1716775457damn/1716775457damn/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=XinwangTao&theme=codeSTACKr&hide_border=true&background=0d1117&ring=2dd4bf&fire=f59e0b&currStreakLabel=58a6ff">
+    <img alt="Xinwang Tao GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=XinwangTao&theme=default&hide_border=true" width="72%">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinwangTao/XinwangTao/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/XinwangTao/XinwangTao/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -267,14 +267,14 @@ Building practical systems that connect <b>computer vision</b>, <b>embedded hard
 | Rust-based desktop software · AI-enhanced embedded devices · Biomimetic aircraft and control systems · Sensing, automation, and human-computer interaction |
 
 <div align="center">
-  <a href="https://github.com/1716775457damn"><img src="https://img.shields.io/badge/Explore_All_Repos-181717?style=for-the-badge&logo=github" alt="All repos"></a>
+  <a href="https://github.com/XinwangTao"><img src="https://img.shields.io/badge/Explore_All_Repos-181717?style=for-the-badge&logo=github" alt="All repos"></a>
   <a href="https://seertick.com"><img src="https://img.shields.io/badge/Visit_Portfolio-00D1B2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1716775457damn&style=flat-square&color=58a6ff" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=XinwangTao&style=flat-square&color=58a6ff" alt="Profile views">
   <br>
   <sub>⚡ <i>Research logic → hardware prototypes → usable software</i></sub>
 </div>
